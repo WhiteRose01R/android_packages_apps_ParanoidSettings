@@ -227,4 +227,9 @@
     <!-- Hide developer status -->
     <string name="hide_developer_status_title">Hide developer status</string>
     <string name="hide_developer_status_summary">Hide developer status to selected apps</string>
+
+    <!-- Keybox spoofing target list -->
+    <string name="hide_bootloader_status_title">Hide unlocked bootloader</string>
+    <string name="hide_bootloader_status_summary">Advertise locked bootloader status to selected apps</string>
+
 </resources>
